@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://backend-veterinaria-oscar-diaz-506160926608.europe-west1.run.app';
 
 // Elementos
 const registerForm = document.getElementById('register-form');
